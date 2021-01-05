@@ -1,0 +1,3 @@
+[submodule "feedparser"]
+	path = feedparser
+	url = https://github.com/kurtmckee/feedparser.git
