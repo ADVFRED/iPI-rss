@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+/xml_cache
 *.py[cod]
 *$py.class
 
@@ -7,3 +8,4 @@ test.py
 /dev
 .replit
 test.cfg
+.log
