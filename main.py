@@ -1,7 +1,7 @@
 import configparser
 from xml.dom import minidom
+import requests_xml
 import os
-import requests
 import glob
 #declarations
 PodcastsNames = []
